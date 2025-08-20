@@ -22,6 +22,7 @@ To break free from inherited weaknesses, Web3 must embrace Decentralized Physica
 
 [The Economist article](https://www.economist.com/business/2025/08/19/how-ai-enhanced-hackers-are-stealing-billions)
 
+[FOCUS ON Business article](https://focusonbusiness.eu/en/news/web3-s-cyber-crisis-how-inherited-web2-weaknesses-are-a-security-nightmare/6621)
 
 ## Installation
 
