@@ -4,6 +4,24 @@ Cardano onboarded enterprises benefit from best of class security and determinis
 
 ![Economist](https://raw.githubusercontent.com/Sapient-Predictive-Analytics/enterprise-security/main/assets/economist.jpg)
 
+*New research shows that rising threats like malware, phishing, ransomware, and DDoS attacks are leaving developers scrambling for solutions. The study by Post-Quantum security pioneers Naoris Protocol reports that 95% of Web3 developers have seen increased malware attacks, with 11% noting doubled phishing incidents.
+
+Web3’s Inherited Web2 Vulnerabilities: The Invisible Threat
+At its core, Web3 still relies on Web2 infrastructure. Most Web3 nodes operate on centralized cloud services like AWS, Google Cloud, or Microsoft Azure. If AWS were to cut off Ethereum tomorrow, the network would face serious disruption.
+
+The Web2 security model—centralized access control—was never designed for Web3’s decentralized nature. This outdated approach clashes with Web3’s reliance on APIs, shared data, and multi-stack technologies. As a result:
+
+Malware: 72% report increases of 25% or more.
+Phishing: Over one-third say attacks have surged by more than 50%.
+Ransomware: Nearly half of developers report significant increases.
+DDoS: 85% see more frequent and impactful attacks.
+With Web3 still dependent on Web2 devices—many of which lack independent cybersecurity verification—the risks will only escalate. Without a decentralized security model, Web3 remains vulnerable to the same threats plaguing Web2 for decades.
+
+DePIN: The Only Scalable Cybersecurity Solution for Web3
+To break free from inherited weaknesses, Web3 must embrace Decentralized Physical Infrastructure Networks (DePIN). Unlike traditional cybersecurity, which relies on centralized security perimeters, DePIN distributes data, processing, and security across a trustless, decentralized network. This eliminates single points of failure and significantly enhances cyber resilience.*
+
+[The Economist article](https://www.economist.com/business/2025/08/19/how-ai-enhanced-hackers-are-stealing-billions)
+
 
 ## Installation
 
