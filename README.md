@@ -66,12 +66,13 @@ THIRDWEB_SECRET_KEY=paste_your_secret_key_here
 - [Video Tutorials](https://youtube.com/thirdweb_)
 - [Blog](https://blog.thirdweb.com)
 
-## Contributing
 
-Contributions and [feedback](https://feedback.thirdweb.com) are always welcome!
 
 Please visit our [open source page](https://thirdweb.com/open-source) for more information.
 
 ## Need help?
 
 For help, join the [discord](https://discord.gg/thirdweb) or visit our [support page](https://support.thirdweb.com).
+
+![NetworkGraph](https://raw.githubusercontent.com/Sapient-Predictive-Analytics/enterprise-security/main/assets/networkGraph.png)
+*Sample Top-5 enterprise network vulnerability graph*
