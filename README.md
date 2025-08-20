@@ -1,4 +1,4 @@
-# Future repo of Sapient's Cardano Cybersecurity toolkit and documentation - please vote for us in Fund-14
+# Future repo of Sapient's Cardano Cybersecurity toolkit and documentation - please vote for us in Fund-14🫡🙏
 
 Cardano onboarded enterprises benefit from best of class security and determinism of the blockchain. However, hacks now go beyond smart contract exploits and hackers increasingly target web2/web3 interfaces like wallet plugins, dApp integrations, ross-site scripting (XSS), AI-enabled phishing and DNS hijacking, and server-side vulnerabilities.
 
