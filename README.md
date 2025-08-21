@@ -24,6 +24,10 @@ To break free from inherited weaknesses, Web3 must embrace Decentralized Physica
 
 [FOCUS ON Business article](https://focusonbusiness.eu/en/news/web3-s-cyber-crisis-how-inherited-web2-weaknesses-are-a-security-nightmare/6621)
 
+## Cardano for Enterprise CyberSecurity **SapientShield**
+
+![visuals](https://raw.githubusercontent.com/Sapient-Predictive-Analytics/enterprise-security/main/assets/brand.jpg)
+
 ## Installation
 
 Install the template with [thirdweb create](https://portal.thirdweb.com/cli/create)
