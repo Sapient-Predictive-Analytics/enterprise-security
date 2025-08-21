@@ -28,6 +28,18 @@ To break free from inherited weaknesses, Web3 must embrace Decentralized Physica
 
 ![visuals](https://raw.githubusercontent.com/Sapient-Predictive-Analytics/enterprise-security/main/assets/brand.jpg)
 
+## EvadeML-Zoo
+
+[EvadeML-Zoo Github](https://github.com/mzweilin/EvadeML-Zoo/blob/master/LICENSE)
+
+The EvadeML-Zoo library provides a series of tools and models, including the following:
+
+* Attacking methods such as FGSM, BIM, JSMA, Deepfool, Universal Perturbations, and Carlini/Wagner-L2/Li/L0
+* Pretrained state-of-the-art models to attack
+* Visualization of adversarial examples
+* Defense methods
+* Several ready-to-use datasets, such as, MNIST, CIFAR-10, and ImageNet-ILSVRC
+
 ## Installation
 
 Install the template with [thirdweb create](https://portal.thirdweb.com/cli/create)
